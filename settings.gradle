@@ -1,0 +1,2 @@
+include ':android-pluginmgr'
+include ':PlugLoadDemo'
